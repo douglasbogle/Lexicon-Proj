@@ -37,3 +37,6 @@ Key methods include:
 
 ### Lexicon
 - An interface provided by a CS Instructor at my college
+
+## Testing
+- Some files filled with words are included in the repository for you to ue in testing
