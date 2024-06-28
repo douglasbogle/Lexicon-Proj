@@ -40,3 +40,4 @@ Key methods include:
 
 ## Testing
 - Some files filled with words are included in the repository for you to ue in testing
+- Simply create a new class for testing, make a LexiconTrie object, run addWordsFromFile, and explore the methods!
