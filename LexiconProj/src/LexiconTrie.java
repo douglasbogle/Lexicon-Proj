@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug Bogle
  * This LexiconTrie represents a Lexicon built with LexiconNodes. It is a dictionary without definitions, and similarly,
  * allows adding words, removing words, and asking if it contains words and/or prefixes. It has an alphabetical iterator so
  * that one can print all its words in alphabetical order. It additionally has two advanced methods: suggestCorrections
