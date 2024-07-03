@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug Bogle
  *This class represents an Individual LexiconNode. LexiconTrie is a recursive data structure in that it is made up of
  * these LexiconNode objects. The important functionalities/information about LexiconNodes is that they have an
  * alphabetized ArrayList of children which can be added to or removed from, are either a word or not a word
